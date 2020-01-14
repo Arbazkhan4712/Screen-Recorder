@@ -10,7 +10,7 @@ Opencv
 pip install opencv-python
 ```
 
-Windows
+Windows / MAC
 
 ```
 pip install pillow
