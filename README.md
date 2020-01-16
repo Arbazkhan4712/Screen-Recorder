@@ -24,7 +24,7 @@ pip install pyscreenshot
 
 ## Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ha-1UWPDbwg/0.jpg)](https://www.youtube.com/watch?v=ha-1UWPDbwg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CK-8XB36q44/0.jpg)](https://www.youtube.com/watch?CK-8XB36q44)
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
