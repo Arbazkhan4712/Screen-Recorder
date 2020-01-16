@@ -1,4 +1,4 @@
-# Screen-Recoder
+# Screen-Recorder
 It is an Screen Recoder using Python
 
 
